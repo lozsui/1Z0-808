@@ -17,7 +17,7 @@ public class BulletPoint1 {
 
     1. The scope of a parameter declaration is the body of the method in which the declaration appears.
     2. The scope of a local-variable declaration is from the point at which the declaration appears to
-       the end of that block.
+       the end of that block. A block in Java is a group of one or more statements enclosed in braces.
     3. The scope of a local-variable declaration in a for statement’s header is the body of the for
        statement and the other expressions in the header.
     4. A method or field’s scope is the entire body of the class.
